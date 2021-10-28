@@ -1,0 +1,9 @@
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\bin\Debug\ZERBIN SIMONE.exe.config
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\bin\Debug\ZERBIN SIMONE.exe
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\bin\Debug\ZERBIN SIMONE.pdb
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\obj\Debug\ZERBIN SIMONE.csprojAssemblyReference.cache
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\obj\Debug\ZERBIN_SIMONE.Form1.resources
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\obj\Debug\ZERBIN_SIMONE.Properties.Resources.resources
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\obj\Debug\ZERBIN SIMONE.csproj.GenerateResource.cache
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\obj\Debug\ZERBIN SIMONE.exe
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\obj\Debug\ZERBIN SIMONE.pdb

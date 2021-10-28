@@ -38,12 +38,19 @@ namespace Esercizio_form
 
         private void btnLeggiValore_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(txt.Text);
+            if(txt==null)        
+                MessageBox.Show("Non è stato passato l'oggetto del textBox");            
+            else
+                MessageBox.Show(txt.Text);
+         
         }
 
         private void btnInvia_Click(object sender, EventArgs e)
         {
-            txt.Text = txtF2.Text;
+            if(txt==null)            
+                MessageBox.Show("Non è stato passato l'oggetto del textBox");            
+            else
+                txt.Text = txtF2.Text;
         }
 
         private void btnF2ApriFiglia_Click(object sender, EventArgs e)

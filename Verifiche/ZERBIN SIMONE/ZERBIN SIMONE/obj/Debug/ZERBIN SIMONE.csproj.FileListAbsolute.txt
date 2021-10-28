@@ -1,0 +1,14 @@
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\bin\Debug\ZERBIN SIMONE.exe.config
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\bin\Debug\ZERBIN SIMONE.exe
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\bin\Debug\ZERBIN SIMONE.pdb
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\obj\Debug\ZERBIN SIMONE.csprojAssemblyReference.cache
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\obj\Debug\ZERBIN_SIMONE.Figlia1.resources
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\obj\Debug\ZERBIN_SIMONE.Figlia2.resources
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\obj\Debug\ZERBIN_SIMONE.FormMain.resources
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\obj\Debug\ZERBIN_SIMONE.Properties.Resources.resources
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\obj\Debug\ZERBIN SIMONE.csproj.GenerateResource.cache
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\obj\Debug\ZERBIN SIMONE.exe
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\obj\Debug\ZERBIN SIMONE.pdb
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\obj\Debug\ZERBIN_SIMONE.Esci.resources
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\obj\Debug\ZERBIN_SIMONE.FormModale.resources
+C:\Users\s.zerbin.1817\Desktop\ZERBIN SIMONE\ZERBIN SIMONE\obj\Debug\ZERBIN_SIMONE.FormInfo.resources

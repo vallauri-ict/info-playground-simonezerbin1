@@ -1,0 +1,30 @@
+C:\Users\simon\OneDrive\Desktop\Scuola\Informatica\Esercizi - Teoria\Esercizi\WindowsForm03 - Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\bin\Debug\WindowsForm03 - Esercitazione Verifica.exe.config
+C:\Users\simon\OneDrive\Desktop\Scuola\Informatica\Esercizi - Teoria\Esercizi\WindowsForm03 - Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\bin\Debug\WindowsForm03 - Esercitazione Verifica.exe
+C:\Users\simon\OneDrive\Desktop\Scuola\Informatica\Esercizi - Teoria\Esercizi\WindowsForm03 - Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\bin\Debug\WindowsForm03 - Esercitazione Verifica.pdb
+C:\Users\simon\OneDrive\Desktop\Scuola\Informatica\Esercizi - Teoria\Esercizi\WindowsForm03 - Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03 - Esercitazione Verifica.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Scuola\Informatica\Esercizi - Teoria\Esercizi\WindowsForm03 - Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03___Esercitazione_Verifica.Figlia1.resources
+C:\Users\simon\OneDrive\Desktop\Scuola\Informatica\Esercizi - Teoria\Esercizi\WindowsForm03 - Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03___Esercitazione_Verifica.Form1.resources
+C:\Users\simon\OneDrive\Desktop\Scuola\Informatica\Esercizi - Teoria\Esercizi\WindowsForm03 - Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03___Esercitazione_Verifica.Properties.Resources.resources
+C:\Users\simon\OneDrive\Desktop\Scuola\Informatica\Esercizi - Teoria\Esercizi\WindowsForm03 - Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03 - Esercitazione Verifica.csproj.GenerateResource.cache
+C:\Users\simon\OneDrive\Desktop\Scuola\Informatica\Esercizi - Teoria\Esercizi\WindowsForm03 - Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03 - Esercitazione Verifica.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Scuola\Informatica\Esercizi - Teoria\Esercizi\WindowsForm03 - Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03 - Esercitazione Verifica.exe
+C:\Users\simon\OneDrive\Desktop\Scuola\Informatica\Esercizi - Teoria\Esercizi\WindowsForm03 - Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03 - Esercitazione Verifica.pdb
+C:\Users\simon\OneDrive\Desktop\Scuola\Informatica\Esercizi - Teoria\Esercizi\WindowsForm03 - Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03___Esercitazione_Verifica.Figlia2.resources
+C:\Users\simon\OneDrive\Desktop\Scuola\Informatica\Esercizi - Teoria\Esercizi\WindowsForm03 - Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03___Esercitazione_Verifica.ModaleNonSelezione.resources
+C:\Users\simon\OneDrive\Desktop\Scuola\Informatica\Esercizi - Teoria\Esercizi\WindowsForm03 - Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03___Esercitazione_Verifica.ModaleEsci.resources
+C:\Users\simon\OneDrive\Desktop\Scuola\Informatica\Esercizi - Teoria\Esercizi\WindowsForm03 - Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03___Esercitazione_Verifica.FormInfo.resources
+F:\4B\Informatica\Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\bin\Debug\WindowsForm03 - Esercitazione Verifica.exe.config
+F:\4B\Informatica\Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\bin\Debug\WindowsForm03 - Esercitazione Verifica.exe
+F:\4B\Informatica\Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\bin\Debug\WindowsForm03 - Esercitazione Verifica.pdb
+F:\4B\Informatica\Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03 - Esercitazione Verifica.csprojAssemblyReference.cache
+F:\4B\Informatica\Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03___Esercitazione_Verifica.Figlia1.resources
+F:\4B\Informatica\Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03___Esercitazione_Verifica.Figlia2.resources
+F:\4B\Informatica\Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03___Esercitazione_Verifica.Form1.resources
+F:\4B\Informatica\Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03___Esercitazione_Verifica.FormInfo.resources
+F:\4B\Informatica\Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03___Esercitazione_Verifica.ModaleEsci.resources
+F:\4B\Informatica\Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03___Esercitazione_Verifica.ModaleNonSelezione.resources
+F:\4B\Informatica\Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03___Esercitazione_Verifica.Properties.Resources.resources
+F:\4B\Informatica\Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03 - Esercitazione Verifica.csproj.GenerateResource.cache
+F:\4B\Informatica\Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03 - Esercitazione Verifica.csproj.CoreCompileInputs.cache
+F:\4B\Informatica\Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03 - Esercitazione Verifica.exe
+F:\4B\Informatica\Esercitazione Verifica\WindowsForm03 - Esercitazione Verifica\obj\Debug\WindowsForm03 - Esercitazione Verifica.pdb

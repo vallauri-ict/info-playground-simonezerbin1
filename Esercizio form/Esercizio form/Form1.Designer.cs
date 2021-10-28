@@ -32,6 +32,7 @@
             this.btnApriF2b = new System.Windows.Forms.Button();
             this.txtDaPassare = new System.Windows.Forms.TextBox();
             this.btnF2Controllo = new System.Windows.Forms.Button();
+            this.btnApriModale = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnApriF2
@@ -71,11 +72,22 @@
             this.btnF2Controllo.UseVisualStyleBackColor = true;
             this.btnF2Controllo.Click += new System.EventHandler(this.btnF2Controllo_Click);
             // 
+            // btnApriModale
+            // 
+            this.btnApriModale.Location = new System.Drawing.Point(140, 150);
+            this.btnApriModale.Name = "btnApriModale";
+            this.btnApriModale.Size = new System.Drawing.Size(98, 33);
+            this.btnApriModale.TabIndex = 4;
+            this.btnApriModale.Text = "ApriFormModale";
+            this.btnApriModale.UseVisualStyleBackColor = true;
+            this.btnApriModale.Click += new System.EventHandler(this.btnApriModale_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnApriModale);
             this.Controls.Add(this.btnF2Controllo);
             this.Controls.Add(this.txtDaPassare);
             this.Controls.Add(this.btnApriF2b);
@@ -93,6 +105,7 @@
         private System.Windows.Forms.Button btnApriF2b;
         private System.Windows.Forms.TextBox txtDaPassare;
         private System.Windows.Forms.Button btnF2Controllo;
+        private System.Windows.Forms.Button btnApriModale;
     }
 }
 
