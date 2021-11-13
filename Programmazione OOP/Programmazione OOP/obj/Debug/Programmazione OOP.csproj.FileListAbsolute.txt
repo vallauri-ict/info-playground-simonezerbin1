@@ -1,9 +1,0 @@
-D:\4B\Informatica\Programmazione OOP\Programmazione OOP\bin\Debug\Programmazione OOP.exe.config
-D:\4B\Informatica\Programmazione OOP\Programmazione OOP\bin\Debug\Programmazione OOP.exe
-D:\4B\Informatica\Programmazione OOP\Programmazione OOP\bin\Debug\Programmazione OOP.pdb
-D:\4B\Informatica\Programmazione OOP\Programmazione OOP\obj\Debug\Programmazione OOP.csprojAssemblyReference.cache
-D:\4B\Informatica\Programmazione OOP\Programmazione OOP\obj\Debug\Programmazione_OOP.Form1.resources
-D:\4B\Informatica\Programmazione OOP\Programmazione OOP\obj\Debug\Programmazione_OOP.Properties.Resources.resources
-D:\4B\Informatica\Programmazione OOP\Programmazione OOP\obj\Debug\Programmazione OOP.csproj.GenerateResource.cache
-D:\4B\Informatica\Programmazione OOP\Programmazione OOP\obj\Debug\Programmazione OOP.exe
-D:\4B\Informatica\Programmazione OOP\Programmazione OOP\obj\Debug\Programmazione OOP.pdb
